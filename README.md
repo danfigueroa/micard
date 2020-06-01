@@ -1,4 +1,4 @@
-![Tela do App]("/assets/IMG_20200601_061025.jpg")
+![Tela do App]("assets/IMG_20200601_061025.jpg")
 
 # Mi Card - App de cartão pessoal
 
